@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_NcQrIHI2X12tQjNvQCNA3HzLt4GD",
+  "orgId": "team_7pi9RSFfytuke3D6Sd4IQco7",
+  "projectName": "ask-us",
+  "settings": {
+    "createdAt": 1771926492407,
+    "framework": "vite",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}
